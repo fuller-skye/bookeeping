@@ -1,4 +1,5 @@
-# bookkeeping
+# Bookkeeping
+
 A collection of bookkeeping notes, proposals, and insights.
 
 Currently working with
